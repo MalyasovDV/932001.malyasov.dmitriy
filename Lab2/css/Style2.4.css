@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    display:flex;
+    justify-content: center;
+}
+    
+.content{
+	height:auto;
+	max-width:600px;
+	width:auto;
+    background-color: blue;
+    color: white;
+    margin: 10px;
+}

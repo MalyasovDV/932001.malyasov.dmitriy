@@ -1,0 +1,50 @@
+body {
+	line-height:25px;
+	margin: 0;
+}
+
+h3 {
+	margin: 0;
+	display: inline;
+}
+
+h1 {
+	margin: 0;
+}
+
+.header {
+	text-align: left;
+	font-family:'Fixed-Fluid';
+	background-color:#EAEAEA;
+	padding: 10px;
+	margin: 0;
+	width: auto;
+	height: 90px;
+}
+
+.LeftColumn {
+	float: left;
+	width: 25%;
+	background-color: #C8FC98;
+}
+
+.ContentColumn {
+	font-family: 'Fluid';
+}
+
+.RightColumn {
+	max-width:200px;
+	width:auto;
+	background-color:#FFFF80;
+	float:right;
+}
+
+.footer {
+	text-align:center;
+	background-color: black;
+	clear: both;
+}
+
+a {
+	color: bisque;
+}
